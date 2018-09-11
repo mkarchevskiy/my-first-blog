@@ -25,7 +25,7 @@ SECRET_KEY = 'jx-q(%(44jn&sy)^gz1$n)$oo(+w(*_wa+07nc8k=4b@ek%@6&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'm.karchevskiy.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mkarchevskiy.pythonanywhere.com']
 
 
 # Application definition
